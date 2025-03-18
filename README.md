@@ -7,7 +7,6 @@
 
 ### 作品展示
 
-<video width="640" height="360" controls>
-  <source src="[https://example.com/your-video.mp4](https://syz-pcb.oss-cn-hangzhou.aliyuncs.com/pcb_app.mp4)" type="video/mp4">
-  你的浏览器不支持视频播放。请单独下载视频 https://syz-pcb.oss-cn-hangzhou.aliyuncs.com/pcb_app.mp4
-</video>
+
+https://github.com/user-attachments/assets/53c51398-5233-4e59-8d7d-76ff8ec4107f
+
